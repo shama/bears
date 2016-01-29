@@ -1,1 +1,2 @@
-alert('bears!')
+alert('bears2!')
+console.log('Details');
